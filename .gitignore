@@ -1,0 +1,15 @@
+# Personal learning backups
+data-journey-backup-*.json
+
+# Secrets and private datasets
+.env
+.env.*
+!.env.example
+*.csv
+*.parquet
+
+# Local files
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
